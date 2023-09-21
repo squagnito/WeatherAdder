@@ -1,5 +1,5 @@
 # WeatherAdder
 
-![Screenshot](./screenshot.jpeg)
+![Screenshot](https://raw.github.com/squagnito/WeatherAdder/main/screenshot.jpeg)
 
 This program takes your most recent Strava activity and adds the weather conditions to the description.
